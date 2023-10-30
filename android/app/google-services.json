@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629870590914",
+    "project_id": "natlife-4d97a",
+    "storage_bucket": "natlife-4d97a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629870590914:android:642b5bedf829940ed5f45b",
+        "android_client_info": {
+          "package_name": "com.newapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8oWCCJvg2oENaaBppkpSzZq-BUEJTbhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
